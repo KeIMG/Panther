@@ -1,0 +1,6 @@
+framework module Pods_Panther {
+  umbrella header "Pods-Panther-umbrella.h"
+
+  export *
+  module * { export * }
+}
